@@ -58,6 +58,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+## :video_game: Scripts
+
+- `dev`: starts the application at `localhost:3000`;
+- `build`: creates an optimized production build of the application;
+- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
+- `test`: runs the tests;
+- `lint`: runs eslint in the /src directory.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
