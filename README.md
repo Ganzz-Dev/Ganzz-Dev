@@ -23,14 +23,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Ganzz-Dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ganzz-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ganzz-Dev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-## 🔑 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ganzz-Dev&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🎮 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ganzz-Dev&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
