@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://youtube.com/@gusde-gaming?si=XOTxStVebq9I0gAB">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+GanzzDev;I+am+is+a+developer+bot+whatsapp⚡"
+        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+GanzzDev;I+am+is+a+software+engineering+;and+web+design;help+support+it+guys;thankyou+all"
             alt="Typing SVG"
         />
     </a>
@@ -85,13 +85,6 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 <a href="https://prettier.io">
   <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
 </a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
   
 ## :video_game: Scripts
 
