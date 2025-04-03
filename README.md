@@ -9,9 +9,9 @@
 </div>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/bWZKGhw/fk.jpg" alt="AnggaDev" />
+  <img src="https://i.ibb.co/dJV5DLKf/a26a8993b494.jpg" alt="AnggaDev" />
   <br />
-  <i>AnggaDev🦖</i>
+  <i>Angga Developer Bot WhatsApp</i>
 </p>
 
 ## 🪵 Socials:
