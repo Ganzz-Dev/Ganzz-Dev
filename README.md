@@ -16,7 +16,7 @@
 </p>
 
 ## 🪵 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anggaa.niee?igsh=bjN6a3Fpam1zbHR1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/4qoj3wPa2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@gyyatttt?_t=ZS-8utmytbZt3P&_r=1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anggaselebeww) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gusde-gaming?si=gBQVNsvWxYwbzD3q)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/anggaa.niee?igsh=bjN6a3Fpam1zbHR1) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/4qoj3wPa2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@gyyatttt?_t=ZS-8utmytbZt3P&_r=1) [![Facebook](https://img.shields.io/badge/facebook-blue.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100084787945094) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anggaselebeww) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gusde-gaming?si=gBQVNsvWxYwbzD3q)
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
