@@ -1,10 +1,10 @@
 [
     {
-        "displayName": "Ganz",
+        "displayName": "GanzDev",
         "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:Ganz\nN:Ganzz;;;\nTEL;waid=6289504491818:6289504491818\nEMAIL;TYPE=WORK:anggaakhasia@gmail.com\nADR;TYPE=HOME:;;261 Shinjōnakachō;Nagahama;Shiga 526-0012;Jepang\nURL;TYPE=WORK:https://github.com/Ganzz-Dev\nORG: developer bot WhatsApp\nTITLE:Creating Useful WhatsApp Botz\nNOTE:solitude is my pleasure.\nEND:VCARD"
     },
     {
-        "displayName": "Ganz",
+        "displayName": "GanzBot",
         "vcard": "BEGIN:VCARD\nVERSION:3.0\nFN:GanzBot\nN:Gnz;;;\nTEL;waid=6289504491818:6289504491818\nEMAIL;TYPE=WORK:anggaakhasia@gmail.com\nADR;TYPE=HOME:;;33 Fukakusa Hiratachō;Fushimi Ward;Kyoto 612-0019;Jepang\nURL;TYPE=WORK:https://github.com/Ganzz-Dev\nORG:Ganz BOTz\nTITLE:BotWhatsApp\nNOTE:Support kami yah :)\nEND:VCARD"
     }
 ]
