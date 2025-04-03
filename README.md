@@ -42,50 +42,9 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Ganzz-Dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ganzz-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ganzz-Dev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🎮 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ganzz-Dev&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sychyy&icon=8&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://styled-components.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
   
 ## :video_game: Scripts
 
