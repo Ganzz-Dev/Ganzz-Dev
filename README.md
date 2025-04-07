@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://youtube.com/@gusde-gaming?si=XOTxStVebq9I0gAB">
+<a href="https://www.tiktok.com/@gyyatttt?_t=ZS-8vKxpBIYEn1&_r=1">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=87CEEB&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+GanzzDev;Creator+of+the+WhatsApp+bot"
         "
