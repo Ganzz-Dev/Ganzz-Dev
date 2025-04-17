@@ -67,16 +67,6 @@ https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-
 - `test`: runs the tests;
 - `lint`: runs eslint in the /src directory.
 
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=ganzz&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganzz&theme=tokyonight" width="100%">
-  
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganzz&theme=tokyonight" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganzz&theme=tokyonight" width="45%">
-  </p>
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
